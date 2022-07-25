@@ -4,7 +4,10 @@ It is an application which is useful for school admission.
 
 Technologies Used :
 
-Java Maven MYSQL Git
+Java 
+Maven
+MYSQL
+Git
 
 Features :
 
